@@ -23,7 +23,7 @@
                 <input  type="email"  id="courriel"  name="user_email" required>
             </div>
             <div>
-                <label for="telephone">Téléphone :</labe>
+                <label for="telephone">Téléphone :</label>
                 <input type="tel" name="telephone" id="telephone" required>
             </div>
             <div>
